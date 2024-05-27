@@ -1,0 +1,34 @@
+Exception = Disrupt the normal flow of program.
+	 
+	 1) Checked Exception = 
+	    They are checked at compile time.
+	    Error that occurs when we violate rule of writing syntax.
+	    Example
+	    a) missing parenthesis ( {} ).
+	    b) missing semicolon ( ; ).
+	    b) printing the value of variable without declaring it.
+	    c) Incorrect naming of java file.
+	       eg file is game then it must be saved as game.java or mygame.java.
+	       
+	 2) Error 
+	    We do not have control over error.
+	    Error is something that our system can't recover.
+	    Note = We can only handle checked or unchecked exception.
+	    Example
+	    a) Out of memory error.
+	    b) Virtual machine error.
+	    c) Assertion error.
+	    
+	 3) Unchecked Exception
+	    They are checked at runtime`1`	1 after successfully compilation are called as Runtime or unchecked exception.
+	    These error are not detected by compiler.
+	    Example
+	    a) Arithmetic exception.
+	    b) Array Index Out of Bound exception
+	    c) Out of memory exception.
+	    d) Illegal State exception.
+	    e) Null pointer exception.
+	    f) Number Format exception.
+	    g) file not found exception.
+	    h) Class not found exception.
+	    i) ClassCast exception.
