@@ -1,6 +1,6 @@
-package CH_21_String;
+package CH_26_String;
 
-public class Example_2 {
+public class Example_1b {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -37,5 +37,4 @@ public class Example_2 {
 			System.out.println("c1 is greatest");
 		}
 	}
-
 }

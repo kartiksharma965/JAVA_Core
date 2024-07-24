@@ -1,6 +1,6 @@
-package CH_21_String;
+package CH_26_String;
 
-public class Example_1 {
+public class Example_1a {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -25,11 +25,5 @@ public class Example_1 {
 		System.out.println(x+y+c+d);   // important
 		System.out.println(x+y+(c+d)); // important
 		System.out.println(y+a+b+c+d+x+y+a);
-		
-		
-		
-		
-
 	}
-
 }
