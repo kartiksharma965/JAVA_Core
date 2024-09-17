@@ -1,0 +1,103 @@
+Day-1
+------
+What is java?
+Object oriented programming language.
+
+Types of programming languages
+--------------------
+1) structured --   C, Python
+2) Object based --  VB, VBScript, Python
+3) Object oriented -- C++, Java, C#, Python
+
+oops
+-------
+1) Class
+2) Object
+3) Polymorphism
+4) Inheritance
+5) Abstraction
+6) Encapsulation
+
+
+Features
+-----------
+1) platform independent
+2) case sensitive
+
+
+3 components
+----------------
+1) JDK - Java Developement Kit
+2) JRE - Java Runtime Environment
+3) JVM - Java Virtual Machine
+
+Core java
+Advanced
+
+
+Versions
+----------
+jdk8 - sun microsystems / oracle
+latest version 21
+
+recomended version : JDK11+ 
+
+community
+licensed ( open JDK)
+
+JDK Download link(JDK 17): 
+---------------
+https://www.oracle.com/java/technologies/downloads/#jdk17-windows
+
+
+1) Download and install Java(JDK)
+2) Set Java Path/ Class path
+	Set Java path: C:\Program Files\Java\jdk-17\bin
+
+Command to verify java installation
+------------
+java -version
+
+
+IDE - Integrated Development Environment
+----
+Eclipse
+Java Beans
+Intellij Idea
+etc.....
+
+Eclipse Download link: https://www.eclipse.org/downloads/
+
+
+1) Create a new Java project ( File-->New--Java Project)
+2) create a new java package ( right click on src-->package) 
+3) create a new class( right click on package-->new -->class)
+
+Naming convensions
+----
+1) Class name should start with Uppercase
+2) Class name should not start with number
+3) Class name contains _  ( Underscore)
+4) Special characters are not allowed
+5) class name contains number/s
+
+
+Ctrl  = CMD
+Syso --> Ctrl +space(CMD+Space)
+
+// single line comment
+/*    */    multi line comment
+
+
+
+Crtl+Shift+/    multi line comment
+Ctrl+/    single line comment
+
+
+
+
+
+
+
+
+
